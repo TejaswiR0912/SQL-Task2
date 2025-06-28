@@ -1,4 +1,4 @@
-# 🗂️ Task2 
+# 🗂️ INSERT, UPDATE, DELETE
 This repository contains SQL queries developed as part of the Elevate Labs SQL Developer Internship. The task focuses on mastering key database operations—inserting, updating, and deleting data in structured tables. 
 # 🎯 Objectives 
 **1.INSERTION:**
